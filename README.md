@@ -7,7 +7,7 @@
 
 **ВАЖНО**: при просмотре проекта в Preview GitHub не отображаются важные графики, рекомендуется смотреть проект в среде Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J7nNLYZyiOR07xbyfAoT7Q-EL-at2pUV#scrollTo=Lr3xJHyaqPBj))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J7nNLYZyiOR07xbyfAoT7Q-EL-at2pUV#scrollTo=Lr3xJHyaqPBj)
 
 
 ## Описание проекта
